@@ -27,7 +27,7 @@ A browser-based photobooth for the IT Faculty booth at **SGU's Day 2026** (Saigo
 - **Tested:** 100+ security-rule test cases on the emulator and a load test with 800 simulated phones
 - **Team:** IT Faculty Youth Union × GDGoC Saigon University × AWS Student Builder Groups
 
-<a href="https://github.com/MinhTrietNg/PhotoWall"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MinhTrietNg&repo=PhotoWall&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B026FF&text_color=C9D1D9" alt="PhotoWall repo" /></a>
+<a href="https://github.com/MinhTrietNg/PhotoWall"><img src="https://img.shields.io/badge/View_on_GitHub-PhotoWall-181717?style=for-the-badge&logo=github&logoColor=white" alt="View PhotoWall on GitHub" /></a>
 
 ## Tech Stack
 
