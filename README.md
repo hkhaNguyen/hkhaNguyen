@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm Hoàng Khả, a student at Saigon University. I build web and mobile apps that solve real-world problems — including a store management app for my family's business — and keep my problem-solving sharp through algorithms and competitive programming.
+I'm Hoàng Khả, a student. I build web and mobile apps that solve real-world problems — including a store management app for my family's business — and keep my problem-solving sharp through algorithms and competitive programming.
 
 - **Currently working on:** Song-Phuong-Manager, a store management web/app for my family's business
 - **Currently learning:** cross-platform app development and writing clean, scalable code
