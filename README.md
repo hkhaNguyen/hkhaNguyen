@@ -15,6 +15,20 @@ I'm Hoàng Khả, a student. I build web and mobile apps that solve real-world p
 - **Open to collaborate on:** web & mobile app projects
 - **Ask me about:** algorithms, C++, and building apps
 
+## Featured Projects
+
+### 📸 [PhotoWall](https://github.com/MinhTrietNg/PhotoWall) — SGU's Day 2026
+
+A browser-based photobooth for the IT Faculty booth at **SGU's Day 2026** (Saigon University). Guests scan a QR code, take 4 shots on their own phone, pick a frame, and within seconds their photo strip is scrolling across the big screen at the booth.
+
+- **My role:** Backend — Firebase, security rules, auto-moderation with Cloud Vision SafeSearch, load testing
+- **Shipped fast:** designed and built in 5 days (113 commits), ran live all day on 27/09/2026 with no self-hosted servers
+- **Stack:** Firebase (Auth, Firestore, Cloud Storage, App Check, Hosting) · Cloud Functions v2 · React · TypeScript
+- **Tested:** 100+ security-rule test cases on the emulator and a load test with 800 simulated phones
+- **Team:** IT Faculty Youth Union × GDGoC Saigon University × AWS Student Builder Groups
+
+<a href="https://github.com/MinhTrietNg/PhotoWall"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MinhTrietNg&repo=PhotoWall&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B026FF&text_color=C9D1D9" alt="PhotoWall repo" /></a>
+
 ## Tech Stack
 
 <p align="left">
@@ -22,6 +36,7 @@ I'm Hoàng Khả, a student. I build web and mobile apps that solve real-world p
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
