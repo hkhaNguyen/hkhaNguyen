@@ -8,7 +8,9 @@
 
 ## About Me
 
-I'm Hoàng Khả, a student. I build web and mobile apps that solve real-world problems — including a store management app for my family's business — and keep my problem-solving sharp through algorithms and competitive programming.
+I'm Hoàng Khả (hkha), an IT student who enjoys turning ideas into working software. I mostly build web and mobile apps, and I like working across the stack — from designing clean interfaces to setting up backends, databases, and security rules that hold up under real use. I care about writing code that is clear, maintainable, and easy for teammates to pick up.
+
+Outside of building products, I keep my problem-solving sharp through algorithms and competitive programming, mainly in C++. I'm always learning something new, and I enjoy collaborating with people who like to ship things and learn along the way.
 
 - **Currently working on:** Song-Phuong-Manager, a store management web/app for my family's business
 - **Currently learning:** cross-platform app development and writing clean, scalable code
